@@ -1,0 +1,32 @@
+name: Article proposal
+description: Ajukan ide artikel untuk Blog IndopenSource
+title: "[Article]: "
+labels:
+  - article
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Ringkasan
+      description: Apa ide artikel ini?
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Kategori
+      options:
+        - project-spotlight
+        - learning-notes
+        - release-notes
+        - community
+        - maintenance
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Outline
+      description: Tuliskan poin-poin utama artikel.
+    validations:
+      required: true
