@@ -2,6 +2,7 @@
 title: "Judul artikel"
 description: "Ringkasan singkat artikel dalam satu kalimat."
 date: "2026-06-14"
+thumbnail: "./assets/slug-artikel.jpg"
 authors:
   - name: "Nama Penulis"
     github: "username"

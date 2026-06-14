@@ -11,6 +11,8 @@ ditinjau melalui pull request.
 content/
   2026/
     06/
+      assets/
+        memperkenalkan-blog-indopensource.jpg
       memperkenalkan-blog-indopensource.md
 templates/
   article.md
@@ -37,6 +39,7 @@ Setiap artikel memakai frontmatter YAML:
 title: "Judul artikel"
 description: "Ringkasan singkat artikel."
 date: "2026-06-14"
+thumbnail: "./assets/cover.jpg"
 authors:
   - name: "Nama Penulis"
     github: "username"
@@ -48,6 +51,11 @@ status: draft
 
 Isi artikel ditulis dengan Markdown yang bersih.
 ```
+
+`thumbnail` bersifat opsional. Nilainya bisa URL penuh `https://...` atau path
+relatif dari file artikel, misalnya `./assets/cover.jpg`. Jika memakai path
+relatif, simpan gambar di folder artikel yang sama, biasanya
+`content/YYYY/MM/assets/`.
 
 Status yang didukung:
 
