@@ -9,7 +9,7 @@ authors:
 tags:
   - community
   - roadmap
-status: draft
+status: published
 ---
 
 Blog IndopenSource disiapkan sebagai tempat mencatat kerja komunitas open source
