@@ -8,7 +8,12 @@ Terima kasih sudah ingin menulis untuk Blog IndopenSource.
 2. Simpan di `content/YYYY/MM/slug-artikel.md`.
 3. Pastikan `status: draft` saat pertama submit.
 4. Buka pull request dengan konteks tulisan.
-5. Maintainer akan memberi masukan editorial.
+5. Setelah tersinkron, buka `/blog/preview/slug-artikel/` untuk memeriksa hasilnya.
+6. Maintainer akan memberi masukan editorial.
+
+URL preview draf tidak muncul di daftar blog atau sitemap dan ditandai
+`noindex, nofollow, noarchive`. URL publik `/blog/slug-artikel/` dipakai setelah
+artikel diterbitkan.
 
 ## Checklist Artikel
 
@@ -18,6 +23,7 @@ Terima kasih sudah ingin menulis untuk Blog IndopenSource.
 - [ ] Artikel punya ringkasan pembuka.
 - [ ] Semua link sudah dicek.
 - [ ] Gambar, jika ada, punya sumber dan izin pakai.
+- [ ] Preview draf sudah diperiksa setelah konten tersinkron.
 
 ## Frontmatter Wajib
 

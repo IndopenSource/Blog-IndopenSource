@@ -63,6 +63,17 @@ Status yang didukung:
 - `ready`: siap dipublikasikan.
 - `published`: sudah dipublikasikan di website.
 
+Setelah konten tersinkron ke website, artikel `draft` dapat dipreview melalui
+URL khusus:
+
+```txt
+https://indopensource.org/blog/preview/slug-artikel/
+```
+
+Preview draf tidak ditampilkan di daftar blog atau sitemap dan memakai
+`noindex, nofollow, noarchive`. Setelah status artikel diterbitkan, URL publiknya
+menjadi `https://indopensource.org/blog/slug-artikel/`.
+
 ## Cara Submit Artikel
 
 1. Buat branch baru dari `main`.
