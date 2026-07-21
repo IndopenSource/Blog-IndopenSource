@@ -10,7 +10,7 @@ tags:
   - open-source
   - artificial-intelligence
   - teknologi-lokal
-status: draft
+status: published
 ---
 
 Sebanyak 122 peserta mengikuti IT Camp 2026 pada 18–19 Juli 2026 di Villa
