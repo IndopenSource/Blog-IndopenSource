@@ -16,7 +16,7 @@ status: published
 
 Open source bukan cuma kumpulan kode yang bisa di-*clone*. Melainkan infrastruktur
 digital yang dipakai bersama, lalu dirawat oleh organisasi, perusahaan, dan
-komunitas. Contoh paling populer Linux, menjalankan seluruh sistem dalam daftar TOP500
+komunitas. Contoh paling populer adalah Linux, yang menjalankan seluruh sistem dalam daftar TOP500
 superkomputer pada November 2025.
 
 Lantas, bila kode dapat disalin dan digunakan bebas, mengapa ekosistem ini

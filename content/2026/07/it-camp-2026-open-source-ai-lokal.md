@@ -44,7 +44,7 @@ dapat memahami bagaimana model dijalankan, bagaimana data diberikan, serta
 bagaimana sebuah jawaban dihasilkan. Data juga tidak harus dikirim ke layanan
 eksternal, sehingga pengguna memiliki kontrol lebih besar atas prosesnya.
 
-Semangat ini dekat dengan open source, dimana alat dapat dipelajari dari dalam,
+Semangat ini dekat dengan open source, di mana alat dapat dipelajari dari dalam,
 disesuaikan dengan kebutuhan, dan dikembangkan bersama. Kemandirian bukan
 berarti mengerjakan semuanya sendirian, melainkan memiliki kemampuan untuk
 memahami dan menentukan teknologi yang digunakan.
@@ -96,5 +96,5 @@ cara sebuah sistem dibangun dengan pengalaman yang sulit diperoleh bila teknolog
 hanya diperkenalkan melalui teori.
 
 Open source menyediakan jalur untuk melanjutkan pembelajaran tersebut setelah
-acara selesai. Peserta dapat mencoba alat alat yang sama, membaca dokumentasi,
+acara selesai. Peserta dapat mencoba alat-alat yang sama, membaca dokumentasi,
 mempelajari kode, lalu membagikan kembali temuannya kepada orang lain.
