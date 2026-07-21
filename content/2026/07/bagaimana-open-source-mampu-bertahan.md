@@ -14,9 +14,9 @@ tags:
 status: published
 ---
 
-Open source bukan sekadar kode yang dapat di-*clone*. Ia adalah infrastruktur
+Open source bukan cuma kumpulan kode yang bisa di-*clone*. Melainkan infrastruktur
 digital yang dipakai bersama, lalu dirawat oleh organisasi, perusahaan, dan
-komunitas. Linux, misalnya, menjalankan seluruh sistem dalam daftar TOP500
+komunitas. Contoh paling populer Linux, menjalankan seluruh sistem dalam daftar TOP500
 superkomputer pada November 2025.
 
 Lantas, bila kode dapat disalin dan digunakan bebas, mengapa ekosistem ini
@@ -64,12 +64,12 @@ orang yang mendapat nilai dari proyek ikut menanggung pemeliharaan proyek.
 
 ## Kontribusi sebagai investasi
 
-Kontribusi tidak harus berupa kode. Ia dapat berupa pelaporan bug, pengujian,
+Kontribusi tidak harus berupa kode. Bisa juga berupa pelaporan bug, pengujian,
 dokumentasi, dukungan komunitas, pendanaan, atau keanggotaan yayasan. Dalam
 survei Linux Foundation terhadap lebih dari 500 pemimpin TI, kontribusi kode
 memiliki rasio manfaat-biaya 3,6x, sementara keanggotaan yayasan mencapai 4,8x.
 
-Angka tersebut bukan janji bagi setiap organisasi, tetapi menguatkan satu
+Angka tersebut bukan janji bagi setiap organisasi, tetapi memberikan satu
 pelajaran: kontribusi aktif dapat mengurangi biaya pemeliharaan sekaligus
 mempercepat respons keamanan dan pengembangan produk.
 
@@ -82,8 +82,8 @@ bertanggung jawab atas sebuah komponen.
 Cyber Resilience Act Uni Eropa menunjukkan arah tuntutan ini. Mulai 11
 September 2026, produsen harus memberi peringatan awal atas kerentanan yang
 dieksploitasi aktif atau insiden berat dalam 24 jam setelah mengetahuinya.
-Kewajiban ini bukan alasan untuk menjauhi open source; justru ini alasan untuk
-membangun proses pemeliharaan, koordinasi disclosure, dan kontribusi upstream
+Kewajiban ini bukan alasan untuk menjauhi open source, justru ini alasan untuk
+membangun proses pemeliharaan, koordinasi disclosure, dan kontribusi
 yang sehat.
 
 Pada akhirnya, daya tahan open source datang dari gotong royong R&D. Kode yang
