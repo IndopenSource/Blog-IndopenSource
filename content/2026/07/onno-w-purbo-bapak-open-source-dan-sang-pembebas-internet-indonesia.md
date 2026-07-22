@@ -38,7 +38,7 @@ Kembali ke Indonesia, Onno mengajar sebagai dosen di ITB dan memelopori koneksi 
 
 Untuk memecahkan masalah ini, Onno menginisiasi teknologi RT/RW-Net, yakni sebuah jaringan komputer swadaya masyarakat yang mendistribusikan koneksi internet murah di tingkat rukun tetangga. Untuk menangkap sinyal nirkabel (Wi-Fi), Onno mempopulerkan penemuan luar biasa yang sangat merakyat: **Wajanbolic**. Ini adalah antena penguat sinyal Wi-Fi frekuensi 2,4 GHz yang dirakit secara murah meriah menggunakan wajan penggorengan, pipa paralon, aluminium foil, dan USB WLAN adapter.
 
-![Onno W. Purbo memperlihatkan Wajanbolic](./assets/wajanbolic-onno-w-purbo.png)
+![Onno W. Purbo memperlihatkan Wajanbolic](https://raw.githubusercontent.com/IndopenSource/Blog-IndopenSource/main/content/2026/07/assets/wajanbolic-onno-w-purbo.png)
 
 *Sumber gambar: Detik.net.id.*
 
