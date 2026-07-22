@@ -14,7 +14,7 @@ tags:
 status: draft
 ---
 
-*Thumbnail artikel ini telah disesuaikan ukurannya dengan bantuan AI.*
+<sub><em>Thumbnail artikel ini telah disesuaikan ukurannya dengan bantuan AI.</em></sub>
 
 Jika kita berbicara tentang perkembangan dunia Teknologi Informasi (TI) dan internet di Indonesia, rasanya mustahil untuk tidak menyebut nama Prof. Dr. Eng. Ir. Onno Widodo Purbo, M.Eng., Ph.D. Sosok pria kelahiran Bandung, 17 Agustus 1962 ini dikenal luas sebagai "Bapak Internet Indonesia" sekaligus pejuang tangguh gerakan *Open Source* di Tanah Air. Di balik penampilannya yang ceplas-ceplos dan sangat sederhana kerap hanya mengenakan kaos, celana pendek, dan hobi bepergian dengan sepeda tersimpan visi besar yang telah mendobrak batasan akses informasi bagi jutaan rakyat Indonesia.
 
