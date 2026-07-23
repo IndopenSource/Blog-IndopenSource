@@ -2,7 +2,10 @@
 title: "OpenClaw Jakarta Meetup #5: Beragam Praktik Terbaik Menggunakan OpenClaw"
 description: "OpenClaw Jakarta Meetup #5 pertemukan developer dan pengguna agentic AI untuk membahas praktik membangun agen yang berguna, terukur, dan bertanggung jawab."
 date: "2026-07-23"
-thumbnail: "./assets/openclaw-jakarta-meetup-5-thumbnail.png"
+thumbnail: "./assets/openclaw-jakarta-meetup-5-og.jpg"
+thumbnailWidth: 1200
+thumbnailHeight: 630
+thumbnailType: image/jpeg
 lang: id
 translationKey: openclaw-jakarta-meetup-5
 authors:

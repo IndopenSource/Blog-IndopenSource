@@ -3,6 +3,9 @@ title: "Onno W. Purbo: Bapak Open Source dan Sang Pembebas Internet Indonesia"
 description: "Artikel ini akan mengupas tuntas perjalanan hidup, pemikiran, kiprah, serta deretan karya Onno W. Purbo yang menjadikannya salah satu tokoh teknologi paling dihormati, tidak hanya di Indonesia, tetapi juga di mata dunia."
 date: "2026-07-22"
 thumbnail: "./assets/onno-w-purbo.png"
+thumbnailWidth: 1338
+thumbnailHeight: 748
+thumbnailType: image/png
 authors:
   - name: "IndopenSource Maintainers"
     github: "IndopenSource"

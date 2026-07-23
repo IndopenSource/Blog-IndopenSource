@@ -3,6 +3,9 @@ title: "Judul artikel"
 description: "Ringkasan singkat artikel dalam satu kalimat."
 date: "2026-06-14"
 thumbnail: "./assets/slug-artikel.jpg"
+thumbnailWidth: 1200
+thumbnailHeight: 630
+thumbnailType: image/jpeg
 lang: id
 translationKey: slug-artikel
 authors:
