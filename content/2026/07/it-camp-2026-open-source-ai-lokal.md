@@ -3,6 +3,9 @@ title: "IT Camp 2026: Open Source dan AI Lokal Dipelajari lewat Praktik Langsung
 description: "Catatan dari IT Camp 2026 tentang AI lokal, SymbiotOS, keamanan siber, dan pentingnya belajar teknologi secara mandiri."
 date: "2026-07-21"
 thumbnail: "./assets/it-camp-2026.jpg"
+thumbnailWidth: 1600
+thumbnailHeight: 763
+thumbnailType: image/jpeg
 authors:
   - name: "wauputr4"
 tags:

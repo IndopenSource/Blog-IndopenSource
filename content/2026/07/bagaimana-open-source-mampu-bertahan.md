@@ -3,6 +3,9 @@ title: "Bagaimana Open Source mampu bertahan berpuluh puluh tahun berbanding bis
 description: "Mengapa kontribusi upstream, tata kelola, dan layanan ekosistem membuat open source bertahan sebagai strategi bisnis."
 date: "2026-07-16"
 thumbnail: "./assets/model-ekonomi-pusat-yayasan-it.jpg"
+thumbnailWidth: 1672
+thumbnailHeight: 941
+thumbnailType: image/jpeg
 authors:
   - name: "IndopenSource Maintainers"
     github: "IndopenSource"

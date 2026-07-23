@@ -3,6 +3,9 @@ title: "Memperkenalkan Blog IndopenSource"
 description: "Catatan awal tentang rencana blog komunitas IndopenSource."
 date: "2026-06-14"
 thumbnail: "./assets/memperkenalkan-blog-indopensource.jpg"
+thumbnailWidth: 1536
+thumbnailHeight: 1024
+thumbnailType: image/jpeg
 authors:
   - name: "IndopenSource Maintainers"
     github: "IndopenSource"

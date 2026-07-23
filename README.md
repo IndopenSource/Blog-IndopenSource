@@ -40,6 +40,9 @@ title: "Judul artikel"
 description: "Ringkasan singkat artikel."
 date: "2026-06-14"
 thumbnail: "./assets/cover.jpg"
+thumbnailWidth: 1200
+thumbnailHeight: 630
+thumbnailType: image/jpeg
 lang: id
 translationKey: project-spotlight-opensid
 authors:
@@ -58,6 +61,10 @@ Isi artikel ditulis dengan Markdown yang bersih.
 relatif dari file artikel, misalnya `./assets/cover.jpg`. Jika memakai path
 relatif, simpan gambar di folder artikel yang sama, biasanya
 `content/YYYY/MM/assets/`.
+
+Untuk hasil Open Graph yang konsisten, gunakan gambar 1200×630 dan isi
+`thumbnailWidth`, `thumbnailHeight`, serta `thumbnailType`. JPG berukuran di
+bawah 500 KB lebih kompatibel untuk preview media sosial.
 
 Status yang didukung:
 
