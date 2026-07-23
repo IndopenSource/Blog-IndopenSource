@@ -1,5 +1,5 @@
 ---
-title: "OpenClaw Jakarta Meetup #5: From Demos to Real-World AI Agents"
+title: "OpenClaw Jakarta Meetup #5: Best Practices for Using OpenClaw"
 description: "OpenClaw Jakarta Meetup #5 brought developers and agentic AI users together to discuss useful, measurable, and responsible agents."
 date: "2026-07-23"
 thumbnail: "./assets/openclaw-jakarta-meetup-5-thumbnail.png"
