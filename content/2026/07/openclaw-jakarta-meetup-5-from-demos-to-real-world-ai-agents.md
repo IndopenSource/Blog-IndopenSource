@@ -40,7 +40,7 @@ Model evaluation is an important part of that process. Each model change should 
 His message was straightforward: focus on the outcome, build checks into the process, and do not expand the automation before it performs well within a smaller scope.
 
 <div class="flex justify-center">
-  <img src="https://raw.githubusercontent.com/IndopenSource/Blog-IndopenSource/main/content/2026/07/assets/openclaw-jakarta-meetup-5.png" alt="Attendees at OpenClaw Jakarta Meetup #5" loading="lazy">
+  <img src="https://raw.githubusercontent.com/IndopenSource/Blog-IndopenSource/main/content/2026/07/assets/openclaw-jakarta-meetup-5-body.jpg" alt="Attendees at OpenClaw Jakarta Meetup #5" loading="lazy">
 </div>
 
 ## Three Real-World Views of AI Agents

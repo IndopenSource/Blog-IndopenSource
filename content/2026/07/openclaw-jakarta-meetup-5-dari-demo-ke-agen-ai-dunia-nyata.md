@@ -40,7 +40,7 @@ Evaluasi model menjadi bagian penting dari proses tersebut. Setiap perubahan mod
 Pesannya sederhana: fokus pada hal yang ingin diselesaikan, bangun mekanisme pengecekan, dan jangan memperluas otomatisasi sebelum hasil pada lingkup kecil cukup baik.
 
 <div class="flex justify-center">
-  <img src="https://raw.githubusercontent.com/IndopenSource/Blog-IndopenSource/main/content/2026/07/assets/openclaw-jakarta-meetup-5.png" alt="Peserta OpenClaw Jakarta Meetup #5" loading="lazy">
+  <img src="https://raw.githubusercontent.com/IndopenSource/Blog-IndopenSource/main/content/2026/07/assets/openclaw-jakarta-meetup-5-body.jpg" alt="Peserta OpenClaw Jakarta Meetup #5" loading="lazy">
 </div>
 
 ## Tiga Gambaran Agen AI di Dunia Nyata
