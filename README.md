@@ -40,6 +40,8 @@ title: "Judul artikel"
 description: "Ringkasan singkat artikel."
 date: "2026-06-14"
 thumbnail: "./assets/cover.jpg"
+lang: id
+translationKey: project-spotlight-opensid
 authors:
   - name: "Nama Penulis"
     github: "username"
@@ -62,6 +64,17 @@ Status yang didukung:
 - `draft`: tulisan masih direview.
 - `ready`: siap dipublikasikan.
 - `published`: sudah dipublikasikan di website.
+
+## Artikel Multibahasa
+
+Bahasa Indonesia adalah bahasa default. Gunakan `lang: id` untuk artikel
+Indonesia dan `lang: en` untuk edisi Inggris. Artikel terjemahan disimpan
+sebagai file Markdown terpisah dan dihubungkan memakai `translationKey` yang
+sama.
+
+Artikel Indonesia tersedia di `/blog/slug/`, sedangkan artikel Inggris tersedia
+di `/en/blog/slug/`. Website menampilkan tombol pergantian bahasa ketika dua
+artikel memiliki `translationKey` dan status publikasi yang sama.
 
 Setelah konten tersinkron ke website, artikel `draft` dapat dipreview melalui
 URL khusus:

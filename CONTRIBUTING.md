@@ -20,6 +20,7 @@ artikel diterbitkan.
 - [ ] File berada di folder tahun dan bulan yang benar.
 - [ ] Slug memakai huruf kecil dan tanda hubung.
 - [ ] Frontmatter lengkap.
+- [ ] `lang` benar dan artikel terjemahan memakai `translationKey` yang sama.
 - [ ] Artikel punya ringkasan pembuka.
 - [ ] Semua link sudah dicek.
 - [ ] Gambar, jika ada, punya sumber dan izin pakai.
@@ -33,6 +34,10 @@ artikel diterbitkan.
 - `authors`
 - `tags`
 - `status`
+
+`lang` direkomendasikan dan otomatis dianggap `id` bila tidak ditulis.
+`translationKey` wajib untuk menghubungkan dua edisi bahasa dari artikel yang
+sama.
 
 ## Review Editorial
 

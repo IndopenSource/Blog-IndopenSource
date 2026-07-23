@@ -3,6 +3,8 @@ title: "Judul artikel"
 description: "Ringkasan singkat artikel dalam satu kalimat."
 date: "2026-06-14"
 thumbnail: "./assets/slug-artikel.jpg"
+lang: id
+translationKey: slug-artikel
 authors:
   - name: "Nama Penulis"
     github: "username"
